@@ -12,6 +12,6 @@
 <img width="150" alt="Снимок экрана 2025-01-14 в 20 39 03" src="https://github.com/user-attachments/assets/95247a7e-df51-4abc-adf6-6420fbcf76d4" />
 
 <div>
-	<img width="533" alt="Снимок экрана 2025-01-14 в 21 14 00" src="https://github.com/user-attachments/assets/2e1c1e47-0c98-419e-a047-77acc1b778bd" />
+	<img width="350" alt="Снимок экрана 2025-01-14 в 21 14 00" src="https://github.com/user-attachments/assets/2e1c1e47-0c98-419e-a047-77acc1b778bd" />
 	
 </div>
