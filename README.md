@@ -1,5 +1,7 @@
 **`Full Stack Developer`**
-![2025-01-14-Koogich](https://github.com/user-attachments/assets/735e33f2-2388-4626-8c27-2de8324cb34d)
+
+<img width="427" alt="Снимок экрана 2025-01-14 в 20 30 18" src="https://github.com/user-attachments/assets/c83c0af2-92c3-4d4f-bd1d-d4b8bcebf894" />
+
 
 <div style="display: flex; align-items: center; gap: 10px;">
 	Я FullStack разработчик, в данный момент прохожу стажировку и активно ищу новые вакансии и опыт как Frontend разработчик 🖥️.
