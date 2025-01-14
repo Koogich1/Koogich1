@@ -1,7 +1,6 @@
 **`Full Stack Developer`**
 
-<img width="427" alt="Снимок экрана 2025-01-14 в 20 30 18" src="https://github.com/user-attachments/assets/c83c0af2-92c3-4d4f-bd1d-d4b8bcebf894" />
-
+<img width="671" alt="Снимок экрана 2025-01-14 в 20 35 39" src="https://github.com/user-attachments/assets/420372e0-46da-4076-9909-6b9eefe6fa92" />
 
 <div style="display: flex; align-items: center; gap: 10px;">
 	Я FullStack разработчик, в данный момент прохожу стажировку и активно ищу новые вакансии и опыт как Frontend разработчик 🖥️.
