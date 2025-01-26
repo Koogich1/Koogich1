@@ -82,7 +82,8 @@
 </p>
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koogich1&layout=compact" />
+	<h4>🖥️ Algorithms</h4>
+	<img src="https://www.codewars.com/users/Koogich1/badges/small" />
 </div>
 
 <p>
@@ -90,8 +91,7 @@
 </p>
 
 <div>
-	<h4>🖥️ Algorithms</h4>
-	<img src="https://www.codewars.com/users/Koogich1/badges/small" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koogich1&layout=compact" />
 </div>
 
 </div>
