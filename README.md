@@ -17,30 +17,26 @@
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Yandex S3-cf0000?style=for-the-badge&logo=amazons3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Yandex S3-cf0000?style=for-the-badge&logo=amazons3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Yandex S3-cf0000?style=for-the-badge&logo=amazons3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Yandex S3-cf0000?style=for-the-badge&logo=amazons3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Yandex S3-cf0000?style=for-the-badge&logo=amazons3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Yandex S3-cf0000?style=for-the-badge&logo=amazons3&logoColor=white"/>
 </div>
 
 <div>
-	  <h3>🛠️ Frameworks</h3>
+	  <h4>🛠️ Frameworks</h4>
 	  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 	  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-	  
-	  <h3> 💻 Platforms </h3>
+</div>
+<div>
+	 <h4> 💻 Platforms </h4>
    	  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 	  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 
-
- 	 <h3>📚 Libraries</h3>
+</div>
+<div>
+	<h4>📚 Libraries</h4>
 	  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 	  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
@@ -61,6 +57,17 @@
 	<img src="https://img.shields.io/badge/PostgreSQL-3664a8?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 <div>
+	<h4>🎋 ORM</h4>
+	<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+</div>
+<div>
+	<h4>🎛️ Operating System</h4>
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+	<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
+	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+<div>
 	<h4>🎨 Design</h4>
 	<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 	<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
@@ -70,6 +77,13 @@
  	<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </div>
 
+<p>
+	
+</p>
+
+<div>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koogich1&layout=compact" />
+</div>
 
 
 </div>
