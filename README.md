@@ -3,7 +3,7 @@
 <img width="350" alt="Снимок экрана 2025-01-14 в 20 35 39" src="https://github.com/user-attachments/assets/420372e0-46da-4076-9909-6b9eefe6fa92" />
 
 <p>
-FullStack разработчик. Владею TypeScript, React, Next, знаком с архитектурными моделями FSD, Atomic и постоянно применяю на практике. Доводил проекты до MVP и Релиза.
+FullStack разработчик. Владею TypeScript, React, Next, Nest Js, Prisma ORM и пр.
 </p>
 
 <img width="150" alt="Снимок экрана 2025-01-14 в 20 39 03" src="https://github.com/user-attachments/assets/95247a7e-df51-4abc-adf6-6420fbcf76d4" />
