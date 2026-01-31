@@ -10,7 +10,7 @@ FullStack Engineer. Специализируюсь на High-Load архитек
 	
 </p>
 <div>
-	<h4>📋 Languages</h4>
+	<h4>Languages</h4>
 	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
@@ -20,7 +20,7 @@ FullStack Engineer. Специализируюсь на High-Load архитек
 </div>
 
 <div>
-	  <h4>🛠️ Frontend & Frameworks</h4>
+	  <h4>Frontend & Frameworks</h4>
 	  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 	  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
@@ -31,7 +31,7 @@ FullStack Engineer. Специализируюсь на High-Load архитек
 </div>
 
 <div>
-	 <h4>⚙️ Backend & Architecture</h4>
+	 <h4>Backend & Architecture</h4>
 	  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
@@ -41,7 +41,7 @@ FullStack Engineer. Специализируюсь на High-Load архитек
 </div>
 
 <div>
-	<h4>🚀 DevOps & Monitoring</h4>
+	<h4>DevOps & Monitoring</h4>
 	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaegertracing&logoColor=white"/>
 	<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -50,13 +50,13 @@ FullStack Engineer. Специализируюсь на High-Load архитек
 </div>
 
 <div>
-	<h4>🤖 AI & Automation</h4>
+	<h4>AI & Automation</h4>
 	<img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white"/>
 	<img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
 
 <div>
-	<h4>💾 Databases & Storage</h4>
+	<h4>Databases & Storage</h4>
 	<img src="https://img.shields.io/badge/PostgreSQL-3664a8?style=for-the-badge&logo=postgresql&logoColor=white" />
 	<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 	<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
@@ -64,7 +64,7 @@ FullStack Engineer. Специализируюсь на High-Load архитек
 </div>
 
 <div>
-	<h4>🎨 Design</h4>
+	<h4>Design</h4>
 	<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 	<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
 </div>
@@ -74,7 +74,7 @@ FullStack Engineer. Специализируюсь на High-Load архитек
 </p>
 
 <div>
-	<h4>🖥️ Algorithms</h4>
+	<h4>Algorithms</h4>
 	<img src="https://www.codewars.com/users/Koogich1/badges/small" />
 </div>
 
