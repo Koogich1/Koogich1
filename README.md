@@ -1,9 +1,7 @@
-**`Full Stack Developer`**
-
 <img width="350" alt="Снимок экрана 2025-01-14 в 20 35 39" src="https://github.com/user-attachments/assets/420372e0-46da-4076-9909-6b9eefe6fa92" />
 
 <p>
-FullStack разработчик. Владею основным современным стеком, люблю обучаться новому
+FullStack Engineer. Специализируюсь на High-Load архитектуре, микросервисах и AI-интеграциях. Активно изучаю Rust и системное программирование.
 </p>
 
 <img width="150" alt="Снимок экрана 2025-01-14 в 20 39 03" src="https://github.com/user-attachments/assets/95247a7e-df51-4abc-adf6-6420fbcf76d4" />
@@ -12,69 +10,63 @@ FullStack разработчик. Владею основным современ
 	
 </p>
 <div>
-	<h4>📋 Languages / markup languages / styles</h4>
-	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+	<h4>📋 Languages</h4>
 	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
 <div>
-	  <h4>🛠️ Frameworks</h4>
-	  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
-	  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-	  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-	  <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white"/>
+	  <h4>🛠️ Frontend & Frameworks</h4>
 	  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-	  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-</div>
-<div>
-	 <h4> 💻 Platforms </h4>
-   	  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-	  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-
-</div>
-<div>
-	<h4>📚 Libraries</h4>
-	  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-	  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-	  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
-	  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-	  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
 	  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-	  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/shadcnUI-black?style=for-the-badge&logo&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white"/>
 </div>
+
 <div>
-	<h4>📂 Cloud Storage</h4>
-	<img src="https://img.shields.io/badge/Amazon S3-cf7200?style=for-the-badge&logo=amazons3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Yandex S3-cf0000?style=for-the-badge&logo=amazons3&logoColor=white"/>
+	 <h4>⚙️ Backend & Architecture</h4>
+	  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+	  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
+	  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 </div>
+
 <div>
-	<h4>💾 Databases</h4>
-	<img src="https://img.shields.io/badge/PostgreSQL-3664a8?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-<div>
-	<h4>🎋 ORM</h4>
-	<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-</div>
-<div>
-	<h4>🎛️ Operating System</h4>
+	<h4>🚀 DevOps & Monitoring</h4>
+	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaegertracing&logoColor=white"/>
+	<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-	<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
-	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+	<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </div>
+
+<div>
+	<h4>🤖 AI & Automation</h4>
+	<img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white"/>
+	<img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+</div>
+
+<div>
+	<h4>💾 Databases & Storage</h4>
+	<img src="https://img.shields.io/badge/PostgreSQL-3664a8?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+	<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+	<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+</div>
+
 <div>
 	<h4>🎨 Design</h4>
-	<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-	<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-	<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-	<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
 	<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
- 	<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+	<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
 </div>
 
 <p>
@@ -92,6 +84,4 @@ FullStack разработчик. Владею основным современ
 
 <div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koogich1&layout=compact" />
-</div>
-
 </div>
