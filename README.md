@@ -81,4 +81,4 @@ FullStack Engineer. Специализируюсь на High-Load архитек
 	
 </p>
 
-![GitHub Stats](https://profile-stats-xleb.vercel.app/api/badge.svg?username=koogich1)
+
