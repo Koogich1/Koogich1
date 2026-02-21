@@ -81,4 +81,4 @@ FullStack Engineer. Специализируюсь на High-Load архитек
 	
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koogich1)](https://github.com/koogich1/github-readme-stats)
+![GitHub Stats](https://profile-stats-xleb.vercel.app/api/badge.svg?username=koogich1)
