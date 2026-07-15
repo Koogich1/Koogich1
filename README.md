@@ -6,7 +6,7 @@ FullStack Engineer. Специализируюсь на High-Load архитек
 
 <div>
 	<h4>My GitHub Language Stats</h4>
-	<img src="https://vercel.app" alt="Top Languages" />
+	<img src="https://github-readme-stats-fast.vercel.app" alt="Top Languages" />
 </div>
 
 <img width="150" alt="Снимок экрана 2025-01-14 в 20 39 03" src="https://github.com/user-attachments/assets/95247a7e-df51-4abc-adf6-6420fbcf76d4" />
